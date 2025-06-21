@@ -41,3 +41,5 @@ This is a fully responsive and interactive Quiz Application built using HTML, CS
 # OUTPUT :-
 
 ![Image](https://github.com/user-attachments/assets/9a6684f7-157d-433f-9624-662ec4f47c20)
+
+![Image](https://github.com/user-attachments/assets/2342648c-3e45-4f8f-a50c-e74f554b6e59)
