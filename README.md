@@ -16,27 +16,27 @@ TASK DESCRIPTION :-
 
 This is a fully responsive and interactive Quiz Application built using HTML, CSS, and JavaScript. Users can test their knowledge across various topics such as HTML, CSS and JAVASCRIPT.
 
-✨ Features -
+Features :-
 
-✅ Start Quiz button to initiate the quiz
+ - Start Quiz button to initiate the quiz
 
-🧠 Dynamic question loading with category labels
+ - Dynamic question loading with category labels
 
-⏱️ Countdown timer for each question
+ - Countdown timer for each question
 
-📊 Live scoring updated on each answer
+ - Live scoring updated on each answer
 
-🎨 Visual feedback for correct/wrong answers
+ - Visual feedback for correct/wrong answers
 
-🖱️ Option selection effects for better UX
+ - Option selection effects for better UX
 
-🔄 Navigation with Previous, Skip, and Save & Next buttons
+ - Navigation with Previous, Skip, and Save & Next buttons
 
-🧮 Auto move to next question when time runs out
+ - Auto move to next question when time runs out
 
-📱 Fully responsive for all browsers and mobile devices
+ - Fully responsive for all browsers and mobile devices
 
-🧭 Sticky header and footer with a clean, modern design
+ - Sticky header and footer with a clean, modern design
 
 # OUTPUT :-
 
