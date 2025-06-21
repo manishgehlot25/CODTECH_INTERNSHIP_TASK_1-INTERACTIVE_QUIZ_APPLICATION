@@ -39,3 +39,5 @@ This is a fully responsive and interactive Quiz Application built using HTML, CS
 🧭 Sticky header and footer with a clean, modern design
 
 # OUTPUT :-
+
+![Image](https://github.com/user-attachments/assets/9a6684f7-157d-433f-9624-662ec4f47c20)
